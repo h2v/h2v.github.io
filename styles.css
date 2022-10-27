@@ -31,6 +31,7 @@ h1 {
     font-family: Courier;
     font-size: 20px;
     text-align: center;
+    padding: 1px;
 }
 
 a {
@@ -41,13 +42,12 @@ a {
     transition: all 0.4s ease;
     font-size: 15px;
     text-align: center;
-    
 }
 
 a:hover {
     outline: none;
     text-shadow: 0px 2px 5px #fff;
-    font-size: 17px;
+    font-size: 16px;
 }
 
 .container {
